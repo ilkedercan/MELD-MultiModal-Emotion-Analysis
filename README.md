@@ -14,6 +14,8 @@ Bu çalışmada kullanılan pencereleme yöntemi, performansı önemli ölçüde
 ## Tez Erişimi
 Daha detaylı bilgi için tezimde yer alan tüm detaylara ulaşabilirsiniz: [Çalışma](https://github.com/ilkedercan/MELD-MultiModal-Emotion-Analysis/blob/main/Multimodalduyguanalizi.pdf).
 
+Tezime alternatif olarak Google Drive üzerinden de ulaşabilirsiniz: [Drive Bağlantısı](https://drive.google.com/file/d/1d5qolJ4LzuIJQVRqsTJt2Gbtv9HRcRBO/view?usp=sharing).
+
 ## Çalışma Akışı
 ![image](https://github.com/ilkedercan/MELD-MultiModal-Emotion-Analysis/blob/main/ak%C4%B1%C5%9Fdiyagram%C4%B1.png)
 
