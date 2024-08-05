@@ -8,6 +8,7 @@ MELD veri seti, Friends dizisinden elde edilen ve çeşitli duygularla etiketlen
 - **Erken Füzyon**
 - **Geç Füzyon**
 - **Hibrit Füzyon**  (Ara Katmanlardan Birleştirme Yaparak Hibrit Füzyon & Dikkat Mekanizmaları Kullanılarak Çapraz Füzyon)
+
 Bu çalışmada kullanılan pencereleme yöntemi, performansı önemli ölçüde artırmıştır. Pencereleme yöntemi, duygu sınıflandırmasında F1 skorlarının iyileştirilmesini sağlamıştır. MELD verisiyle kurulan 4 modelin karşılaştırılmaları yapılmıştır.
 
 ## Çalışma Akışı
