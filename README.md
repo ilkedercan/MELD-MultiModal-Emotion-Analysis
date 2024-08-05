@@ -13,3 +13,8 @@ Bu çalışmada kullanılan pencereleme yöntemi, performansı önemli ölçüde
 
 ## Çalışma Akışı
 ![image](https://github.com/ilkedercan/MELD-MultiModal-Emotion-Analysis/blob/main/ak%C4%B1%C5%9Fdiyagram%C4%B1.png)
+
+## SONUÇ
+![image](https://github.com/ilkedercan/MELD-MultiModal-Emotion-Analysis/blob/main/F1.png)
+
+![image](https://github.com/ilkedercan/MELD-MultiModal-Emotion-Analysis/blob/main/s%C4%B1n%C4%B1fF1.png)
