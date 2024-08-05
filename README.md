@@ -11,6 +11,9 @@ MELD veri seti, Friends dizisinden elde edilen ve çeşitli duygularla etiketlen
 
 Bu çalışmada kullanılan pencereleme yöntemi, performansı önemli ölçüde artırmıştır. Pencereleme yöntemi, duygu sınıflandırmasında F1 skorlarının iyileştirilmesini sağlamıştır. MELD verisiyle kurulan 4 modelin karşılaştırılmaları yapılmıştır.
 
+## Tez Erişimi
+Daha detaylı bilgi için tezimde yer alan tüm detaylara ulaşabilirsiniz: [Paper](https://github.com/ilkedercan/MELD-MultiModal-Emotion-Analysis/blob/main/Multimodalduyguanalizi.pdf).
+
 ## Çalışma Akışı
 ![image](https://github.com/ilkedercan/MELD-MultiModal-Emotion-Analysis/blob/main/ak%C4%B1%C5%9Fdiyagram%C4%B1.png)
 
